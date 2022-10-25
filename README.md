@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @EdgarArturoGomezMurillo
-- 👀 I’m interested in programming
-- 🌱 I study programming at the Technological University of Pereira in the Misión Tic 2022 program.
-I have knowledge of Python, Java, JavaScript, SQLite, HTML, CSS, WordPress, Elementor, Digital Marketing, InDesign and Illustrator.
+- 👀 I’m Web Developer
+- 🌱 I study web development at the Technological University of Pereira in the Misión Tic 2022 program.
+Development focused on web applications with HTML5 and CSS3 languages.
+Programming languages: JavaScript and Java.
+Frameworks: Spring Boot, React, Node.js and Boostrap. 
+Databases: Mongo DB, MySQL and SQLite.
+Making use of Git and GitHub as version controllers and using the agile SCRUM methodology.
+
 I am self-taught and I really like to learn new skills for my life.
 - 📫 How to reach me write an email to arturogomezmurillo@gmail.com
 <!---
